@@ -1,0 +1,26 @@
+# Site settings
+title: Сотников Кирилл
+description: Сотников Кирилл
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Сотников Кирилл
+user_description: В детстве я очень тяготел к компьютерам (особенно, к играм =). Первым был ZX spectrum,  dendy тоже).
+ С возрастом и игровым опытом у меня возник неподдельный интерес - а как это всё работает? 
+ Тут, как и всех на этом пути, на basic была запушена первая программа "Hello, World!!!".
+ Я уже знал, что после окончания школы пойду учиться на специальность, так или иначе связанной с компьютерами...
+ К сожалению жизнь не всегда идет так как мы этого хотим. В 2005 году я закончил местный ВУЗ по специальности инженер-электрик, и специализации информационные технологии в электронергетике.
+ И дальнейший мой путь пошел в другом направлинии а именно по основной специальности инженер.
+ Наткнувшсь на ресурс <a href="https://ru.hexlet.io/u/kiriliuss">Hexlet</a> и поработав на нем уже больше месяца твердо знаю чего хочу добиться и кем стать не смотря ни на что.
+user_title: JS Developer
+email: kiriliuss77@gmail.com
+twitter_username: kiriliuss
+github_username: kiriliuss
+gplus_username: kiriliuss77
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
